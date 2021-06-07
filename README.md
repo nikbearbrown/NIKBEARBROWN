@@ -7,17 +7,20 @@ I also have a Masters in Information Design and Data Visualization from Northeas
 
 My research, consulting  and teaching revolve around math, AI, ML, RL, DL, Visualization, Computational Biology, and Games.  
 
-I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more technical than creating a website. All entrepreneurs should understand what they don't know and get advice related to it if it is important to their company.
+I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more technical than creating a website. Getting advice on highly techincal issues is a good idea. 
 
 I do not invest cash in start-ups, only time, and I do it in exchange for equity as early start-ups are usually very cash strapped.
 
 I also have a company, Fatweasel Digital, the builds AI software for early start-ups for a mix of cash and equity. I call this "AI Ghostwriting."   
 
-Having workable proof of concept prototypes is critical for attracting funding for a start-up.  
+Having workable proof of concept prototypes is critical for attracting funding for a start-up.  Only having power points or an idea will rarely get seed investments.
 
 Reach out to discuss nik @ nikbearbrown com 
 
 You can see more at [NikBearBrown.com](https://www.nikbearbrown.com/)    
+
+- 😄 Pronouns: They/them
+- ⚡ Fun fact: I once ran away with the circus and did Sumo wrestling.
 
 
 <!--
