@@ -7,7 +7,7 @@ I also have a Masters in Information Design and Data Visualization from Northeas
 
 My research, consulting  and teaching revolve around math, AI, ML, RL, DL, Visualization, Computational Biology, and Games.  
 
-I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more techincal than creating a website. All entrepreneurs should understand what they don't know and get advice related to it if it is important to their company.
+I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more technical than creating a website. All entrepreneurs should understand what they don't know and get advice related to it if it is important to their company.
 
 I do not invest cash in start-ups, only time, and I do it in exchange for equity as early start-ups are usually very cash strapped.
 
