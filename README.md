@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a Assistant Professor in Engineering at Northeastern University. I have taught computer science, statistics, applied mathematics, programming, 3D visual effects, web programming, server administration, networking, and game programming at Northeastern University, UCLA, Santa Monica College, ITT, and the Art Institutes - Hollywood. My PhD was in computer science from UCLA. My major field was computational, and systems biology and my minor fields were artificial intelligence and statistics.
+I'm a Assistant Professor in Engineering at Northeastern University. I have taught computer science, statistics, applied mathematics, programming, 3D visual effects, web programming, server administration, networking, and game programming at Northeastern University, UCLA, Santa Monica College, ITT, and the Art Institutes - Hollywood. My PhD was in computer science from UCLA. My major field was computational, and systems biology and my minor fields were artificial intelligence and statistics. I did a part-time post doc at Harvard Medical School while teaching at Northeastern University.
 
 I also have a Masters in Information Design and Data Visualization from Northeastern University and I'm currently enrolled in a Part-Time MS in Finance/MBA at Northeastern University.
 
