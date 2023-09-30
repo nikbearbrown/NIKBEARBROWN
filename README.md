@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm a Assistant Professor in Engineering at Northeastern University. I have taught computer science, statistics, applied mathematics, programming, 3D visual effects, web programming, server administration, networking, and game programming at Northeastern University, UCLA, Santa Monica College, ITT, and the Art Institutes - Hollywood. My PhD was in computer science from UCLA. My major field was computational, and systems biology and my minor fields were artificial intelligence and statistics. I did a part-time post doc at Harvard Medical School while teaching at Northeastern University.
+I'm an Associate Professor in Engineering at Northeastern University. I have taught computer science, statistics, applied mathematics, programming, 3D visual effects, web programming, server administration, networking, and game programming at Northeastern University, UCLA, Santa Monica College, ITT, and the Art Institutes - Hollywood. My Ph.D. was in computer science from UCLA. My major field was computational, and systems biology, and my minor fields were artificial intelligence and statistics. I did a part-time postdoc at Harvard Medical School while teaching at Northeastern University.
 
-I was NSF IGERT Bioinformatics Fellow and have worked as a lab Molecular Biologist for DNAX Research Institute and the Cetus Corporation.
+I was an NSF IGERT Bioinformatics Fellow and have worked as a lab Molecular Biologist for DNAX Research Institute and the Cetus Corporation.
 
 I also have a Masters in Information Design and Data Visualization from Northeastern University and I'm currently enrolled in a Part-Time MS in Finance/MBA at Northeastern University.
 
-My research, consulting  and teaching revolve around math, AI, ML, RL, DL, Visualization, Computational Biology, and Games.  
+My research, consulting,  and teaching revolve around math, AI, ML, RL, DL, Visualization, Computational Biology, and Games.  
 
-I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more technical than creating a website. Getting advice on highly techincal issues is a good idea. 
+I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more technical than creating a website. Getting advice on highly technical issues is a good idea. 
 
 I do not invest cash in start-ups, only time, and I do it in exchange for equity as early start-ups are usually very cash strapped.
 
