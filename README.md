@@ -8,17 +8,21 @@ I also have a Masters in Information Design and Data Visualization from Northeas
 
 My research, consulting,  and teaching revolve around math, AI, ML, RL, DL, Visualization, Computational Biology, and Games.  
 
+My research, consulting, and teaching endeavors are deeply rooted in mathematics, AI, machine learning (ML), reinforcement learning (RL), deep learning (DL), visualization, computational biology, and game development. Beyond academia, I provide angel advising to early-stage startups, focusing on sectors crucial for technological innovation and success. This includes analytics, AI, ML, RL, DL, visualization, computational biology, and games, offering my time and expertise in exchange for equity. My advisory role is primarily aimed at guiding startups through the complexities of AI and ML technologies, emphasizing the creation of workable proof-of-concept prototypes to secure funding.
+
+In my capacity as **Project Lead for the AI for Education Project at Northeastern University**, I have been at the forefront of integrating AI into educational practices, as detailed on my [GitHub page](https://github.com/nikbearbrown/AI4ED). This initiative, part of the Provost's Office AI for Education (AI4ED), underscores my commitment to enhancing educational methodologies through adaptive, interactive, and personalized learning experiences.
+
+My collaborative engagements with esteemed institutions like the **Broad Institute of MIT and Harvard**, and **Harvard Medical School**, have enriched my perspective on the convergence of computational biology, deep learning, and education. This multidisciplinary approach has significantly contributed to my efforts in developing workshops and fostering collaborations that bridge academic research and practical AI applications.
+
+I am keenly interested in leveraging my expertise in generative AI to assist consulting companies focused on AI, furthering my commitment to driving innovation and excellence in both the academic and professional realms.
+
 I also do Angel advising. This means that I act as a consultant and advisor for issues related to Analytics, AI, ML, RL, DL, Visualization, Computational Biology, and Games for early start-ups in exchange for equity.  New tech start-ups rarely have the time or money to make mistakes related to machine learning and AI technology. Understanding AI in 2021 is critical and far more technical than creating a website. Getting advice on highly technical issues is a good idea. 
 
-I do not invest cash in start-ups, only time, and I do it in exchange for equity as early start-ups are usually very cash strapped.
-
-I also have a company, Fatweasel Digital, the builds AI software for early start-ups for a mix of cash and equity. I call this "AI Ghostwriting."   
-
+I do not invest cash in start-ups, only time, and I do it in exchange for equity as early start-ups are usually very cash-strapped.
+ 
 Having workable proof of concept prototypes is critical for attracting funding for a start-up.  Only having power points or an idea will rarely get seed investments.
 
-Reach out to discuss nik @ nikbearbrown com 
-
-You can see more at [NikBearBrown.com](https://www.nikbearbrown.com/)    
+  
 
 - 😄 Pronouns: They/them
 - ⚡ Fun fact: I once ran away with the circus and did Sumo wrestling.
