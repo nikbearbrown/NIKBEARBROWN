@@ -1,7 +1,5 @@
 # MBA Progress Checklist – Northeastern University (MSFMBA Program)
 
-# MBA Progress Checklist – Northeastern University (MSFMBA Program)
-
 ## 1. Core Requirements
 
 | Area | Required Courses | Status |
