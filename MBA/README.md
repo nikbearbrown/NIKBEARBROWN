@@ -20,7 +20,7 @@
 
 ---
 
-## 2. Spring 2025 Courses (In Progress – Assume A Grades)
+## 2. Spring 2025 Courses (A Grades)
 
 | Course | Status |
 |:---|:---|
