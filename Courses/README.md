@@ -1,3 +1,86 @@
+# Fall 2025 Schedule
+
+## Monday
+- **Advances in Data Sciences and Architecture (INFO 7390)**
+  - Time: 11:45 AM - 1:25 PM
+  - Location: Boston Campus | Behrakis Health Sciences Center | Room 325
+
+- **Rucking/Weighted Vest Walk**
+  - Time: 1:45 PM - 2:15 PM
+
+- **ST: Prompt Engineering & AI (INFO 7375)**
+  - Time: 2:50 PM - 4:30 PM
+  - Location: Boston Campus | Hayden Hall | Room 322
+
+- **CrossFit**
+  - Time: 6:00 PM - 7:00 PM
+
+## Tuesday
+- **Medhavi Research Meeting**
+  - Time: 12:30 PM - 1:30 PM
+
+- **Rucking/Weighted Vest Walk**
+  - Time: 2:00 PM - 2:30 PM
+
+- **Building Virtual Environments (CSYE 7270)**
+  - Time: 3:25 PM - 5:05 PM
+  - Location: Boston Campus | Hayden Hall | Room 322
+
+- **CrossFit**
+  - Time: 6:00 PM - 7:00 PM
+
+## Wednesday
+- **Rucking/Weighted Vest Walk**
+  - Time: 1:45 PM - 2:15 PM
+
+- **ST: Prompt Engineering & AI (INFO 7375)**
+  - Time: 2:50 PM - 4:30 PM
+  - Location: Boston Campus | Hayden Hall | Room 322
+
+- **CrossFit**
+  - Time: 6:00 PM - 7:00 PM
+
+- **Financial Strategy (FINA 6205-01)**
+  - Time: 7:30 PM - 9:30 PM
+  - Location: Boston Campus | Forsyth Building 129
+
+## Thursday
+- **Advances in Data Sciences and Architecture (INFO 7390)**
+  - Time: 11:45 AM - 1:25 PM
+  - Location: Boston Campus | Behrakis Health Sciences Center | Room 325
+
+- **Rucking/Weighted Vest Walk**
+  - Time: 1:45 PM - 2:15 PM
+
+- **Office Hours**
+  - Time: 3:00 PM - 4:00 PM
+
+- **CrossFit**
+  - Time: 6:00 PM - 7:00 PM
+
+## Friday
+- **Rucking/Weighted Vest Walk**
+  - Time: 2:00 PM - 2:30 PM
+
+- **Building Virtual Environments (CSYE 7270)**
+  - Time: 3:25 PM - 5:05 PM
+  - Location: Boston Campus | Hayden Hall | Room 322
+
+- **CrossFit**
+  - Time: 6:30 PM - 7:30 PM
+
+## Saturday
+- **Hands-on Office Hours: Algorithms (INFO 6205) - Open to Everyone**
+  - Time: 12:00 PM - 1:00 PM
+  - Location: Online
+
+- **Branding and AI (INFO 7375)**
+  - Time: 1:00 PM - 3:00 PM
+  - Location: Online
+
+- **Rucking/Weighted Vest Walk**
+  - Time: 3:15 PM - 3:45 PM
+
 # Who am I?
 
 **Nik Bear Brown ("Professor Bear")**
