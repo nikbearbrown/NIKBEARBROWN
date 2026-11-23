@@ -163,7 +163,7 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 
 ### conference papers
 
-- yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/wp-content/uploads/2026/06/224.pdf). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224. [conference program](https://ieee-icad.org/icad-2026-june-12/).
+- yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/icad-2026-june-12/). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224.
 - alayt issak, sarthak kakkar, sair goetz, nik bear brown, casper harteveld. [*mapping the typographic latent space of digits*](https://openreview.net/pdf?id=ufA2FuCGyz). iclr tiny papers, 2023.
 - rohit gandikota, deepak mishra, nik bear brown. [*hiding video in images: harnessing adversarial learning on deep 3d-spatio-temporal convolutional neural networks*](https://doi.org/10.1007/978-3-031-31407-0_5). cvip 2022 proceedings, published by springer in 2023, pp. 58–71.
 - rohit gandikota, nik bear brown. [*pro-ddpm: progressive growing of variable denoising diffusion probabilistic models for faster convergence*](https://pdf-files.bmvc2022.org/0121.pdf). british machine vision conference (bmvc), 2022.
