@@ -155,15 +155,38 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 
 ## selected publications and writing
 
-- shesh narayan gupta, nik bear brown. [*when augmentation backfires: synthetic-data volume, generator quality, and classifier-side reweighting for minority-class bias correction*](https://doi.org/10.1016/j.neucom.2026.135455). *neurocomputing*, 710 (2027), article 135455. published online, open access, october 2026.
-- yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/wp-content/uploads/2026/06/224.pdf). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224. [conference program](https://ieee-icad.org/icad-2026-june-12/).
+### journal articles
+
+- shesh narayan gupta, nik bear brown. [*when augmentation backfires: synthetic-data volume, generator quality, and classifier-side reweighting for minority-class bias correction*](https://doi.org/10.1016/j.neucom.2026.135455). *neurocomputing*, 710 (2027), article 135455. published online, open access, october 2026. [related preprint: when generative augmentation hurts](https://arxiv.org/abs/2603.16134).
 - gultepe, valluru, brown, sridhar. "the landscape of nanomedical clinical trials." *nano today*, 2026. [doi](https://doi.org/10.1016/j.nantod.2025.102898)
-- tommaso biancalani et al. (including nik bear brown). "deep learning and alignment of spatially resolved single-cell transcriptomes with tangram." *nature methods*, 2021. [doi](https://doi.org/10.1038/s41592-021-01264-7)
-- balaji, brown. "quantum-enhanced memory architectures for graph-based ai systems." *techrxiv*, 2026. [doi](https://doi.org/10.36227/techrxiv.177162482.24655380/v1)
+- tommaso biancalani et al. (including nik bear brown). "deep learning and alignment of spatially resolved single-cell transcriptomes with tangram." *nature methods*, 2021. [doi](https://doi.org/10.1038/s41592-021-01264-7) [2020 biorxiv preprint](https://doi.org/10.1101/2020.08.29.272831).
+
+### conference papers
+
+- yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/wp-content/uploads/2026/06/224.pdf). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224. [conference program](https://ieee-icad.org/icad-2026-june-12/).
 - alayt issak, sarthak kakkar, sair goetz, nik bear brown, casper harteveld. [*mapping the typographic latent space of digits*](https://openreview.net/pdf?id=ufA2FuCGyz). iclr tiny papers, 2023.
+- rohit gandikota, deepak mishra, nik bear brown. [*hiding video in images: harnessing adversarial learning on deep 3d-spatio-temporal convolutional neural networks*](https://doi.org/10.1007/978-3-031-31407-0_5). cvip 2022 proceedings, published by springer in 2023, pp. 58–71.
 - rohit gandikota, nik bear brown. [*pro-ddpm: progressive growing of variable denoising diffusion probabilistic models for faster convergence*](https://pdf-files.bmvc2022.org/0121.pdf). british machine vision conference (bmvc), 2022.
+- jared fox, nik brown. [*automatically extracting acronyms from biomedical text*](https://doi.org/10.1109/BIBE.2007.4375724). ieee bibe, 2007, pp. 1245–1248.
+- jared fox, nik brown. [*sensitivity and consistency of affymetrix genechip normalization methods*](https://doi.org/10.1109/BIBE.2007.4375693). ieee bibe, 2007, pp. 1081–1086.
+
+### preprints
+
+- shesh narayan gupta, nik bear brown. [*newer is not fairer: gender stereotyping in text-to-image ai across model generations*](https://arxiv.org/abs/2609.18007). arxiv, 2026.
+- akshay syal, lawrence swaminathan xavier prince, evin gultepe, nik bear brown, srinivas sridhar. [*a dialogue-based framework for correcting multimodal errors in ai-assisted stem education*](https://arxiv.org/abs/2605.04131). arxiv, 2026.
+- aravind balaji, nik bear brown. [*quantum-enhanced memory architectures for graph-based ai systems: a theoretical framework with feasibility analysis*](https://doi.org/10.36227/techrxiv.177162482.24655380/v1). techrxiv, 2026. [research square version](https://doi.org/10.21203/rs.3.rs-8951581/v1).
+- nikunj sanghai, nik bear brown. [*advances in transformers for robotic applications: a review*](https://arxiv.org/abs/2412.10599). arxiv, 2024.
+- megha patel, nimish magre, himanshi motwani, nik bear brown. [*advances in machine learning, statistical methods, and ai for single-cell rna annotation using raw count matrices in scrna-seq data*](https://arxiv.org/abs/2406.05258). arxiv, 2024.
+- nik bear brown. [*enhancing trust in llms: algorithms for comparing and interpreting llms*](https://arxiv.org/abs/2406.01943). arxiv, 2024.
 - shesh narayan gupta, nicholas bear brown. [*adjusting for bias with procedural data*](https://arxiv.org/abs/2204.01108). arxiv preprint, 2022.
 - nimish magre, nicholas brown. [*typography-mnist (tmnist): an mnist-style image dataset to categorize glyphs and font-styles*](https://arxiv.org/abs/2202.08112). arxiv preprint, 2022.
+
+### posters
+
+- ziqing lu et al. (including nik bear brown). [*using deep learning to transfer atlas annotations in mouse brain data*](https://www.researchgate.net/publication/341785093_Using_Deep_Learning_to_Transfer_Atlas_Annotations_in_Mouse_Brain_Data). research poster, 2020. [northeastern faculty bibliography](https://coe.northeastern.edu/people/brown-nicholas/#publications).
+
+### books and other writing
+
 - brown, gultepe, sridhar. [*cancer biology and therapeutics*](https://github.com/nikbearbrown/Cancer-Biology-and-Therapeutics). open-source textbook.
 - brown. [*computational skepticism for ai*](https://www.bearbrown.co/method/computational-skepticism). bear brown & company.
 - brown. *irreducibly human: what ai can and can't do*. bear brown & company.
