@@ -1,4 +1,4 @@
-# Nik Bear Brown
+# nik bear brown
 
 **Associate Teaching Professor · Northeastern University College of Engineering**  
 **Founder · [Humanitarians AI](https://www.humanitarians.ai/) · [Bear Brown & Company](https://www.bearbrown.co/) · [Musinique LLC](https://www.musinique.net/)**
@@ -15,7 +15,7 @@ My work sits at the intersection of artificial intelligence, machine learning, c
 
 ---
 
-## What I Work On
+## what i work on
 
 I am interested in the human capacities that AI extends, imitates, weakens, or cannot touch.
 
@@ -41,7 +41,7 @@ The question underneath much of my work is:
 
 ---
 
-## Irreducibly Human
+## irreducibly human
 
 **[Irreducibly Human](https://irreducibly.xyz)** is the central framework connecting my teaching, writing, nonprofit work, and AI infrastructure projects.
 
@@ -56,9 +56,9 @@ The seven-tier framework helps distinguish between what AI can do, what it can s
 
 ---
 
-## Current Projects
+## current projects
 
-### [Humanitarians AI](https://www.humanitarians.ai/)
+### [humanitarians ai](https://www.humanitarians.ai/)
 
 Humanitarians AI is a 501(c)(3) nonprofit I founded in 2019. It supports international graduate students, especially OPT fellows, by helping them build production-scale AI projects with public evidence of real work.
 
@@ -68,7 +68,7 @@ Projects include civic accountability, bioinformatics, education technology, mus
 
 ---
 
-### [Computational Skepticism for AI](https://www.bearbrown.co/method/computational-skepticism)
+### [computational skepticism for ai](https://www.bearbrown.co/method/computational-skepticism)
 
 A practitioner book and teaching framework on how to reason with and against AI systems.
 
@@ -78,7 +78,7 @@ The central claim is that AI fluency is not tool use. It is disciplined skeptici
 
 ---
 
-### [Medhavi](https://medhavy.substack.com)
+### [medhavi](https://medhavy.substack.com)
 
 Medhavi is an AI-native adaptive tutoring and intelligent textbook platform.
 
@@ -88,7 +88,7 @@ That friction matters.
 
 ---
 
-### [AImagineering](https://aimagineering.xyz)
+### [aimagineering](https://aimagineering.xyz)
 
 AImagineering is a course and design framework that inverts standard Design Thinking.
 
@@ -98,7 +98,7 @@ No AI tool makes a real commitment. Humans do.
 
 ---
 
-### [Brutalist](https://www.brutalist.art/)
+### [brutalist](https://www.brutalist.art/)
 
 Brutalist is a design conversation system for AI-assisted motion graphics production.
 
@@ -110,7 +110,7 @@ At scale — a 13-module Coursera course, a full semester of educational video �
 
 ---
 
-### Intelligence?
+### intelligence?
 
 **Intelligence?** is an in-progress natural history of cognition from bacteria to AI.
 
@@ -118,7 +118,7 @@ It asks how different organisms sense, decide, adapt, coordinate, and act — pl
 
 ---
 
-## Active Tools and Platforms
+## active tools and platforms
 
 | Tool / Platform | Purpose |
 |---|---|
@@ -135,7 +135,7 @@ It asks how different organisms sense, decide, adapt, coordinate, and act — pl
 
 ---
 
-## Teaching
+## teaching
 
 At Northeastern University, I teach and build courses around AI, data science, programming, visualization, and virtual environments.
 
@@ -153,20 +153,21 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 
 ---
 
-## Selected Publications and Writing
+## selected publications and writing
 
-- Gultepe, Valluru, Brown, Sridhar. "The Landscape of Nanomedical Clinical Trials." *Nano Today*, 2026. [DOI](https://doi.org/10.1016/j.nantod.2025.102898)
-- Avasthi, Lu, Brown. "Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram." *Nature Methods*, 2021. [DOI](https://doi.org/10.1038/s41592-021-01264-7)
-- Balaji, Brown. "Quantum-Enhanced Memory Architectures for Graph-Based AI Systems." *TechRxiv*, 2026. [DOI](https://doi.org/10.36227/techrxiv.177162482.24655380/v1)
-- Issak, Kakkar, Goetz, Brown, Harteveld. "Mapping the Typographic Latent Space of Digits." *ICLR*, Kigali, 2023.
-- Brown, Gultepe, Sridhar. [*Cancer Biology and Therapeutics*](https://github.com/nikbearbrown/Cancer-Biology-and-Therapeutics). Open-source textbook.
-- Brown. [*Computational Skepticism for AI*](https://www.bearbrown.co/method/computational-skepticism). Bear Brown & Company.
-- Brown. *Irreducibly Human: What AI Can and Can't Do*. Bear Brown & Company.
-- Brown. *Intelligence?* In progress.
+- yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/wp-content/uploads/2026/06/224.pdf). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224. [conference program](https://ieee-icad.org/icad-2026-june-12/).
+- gultepe, valluru, brown, sridhar. "the landscape of nanomedical clinical trials." *nano today*, 2026. [doi](https://doi.org/10.1016/j.nantod.2025.102898)
+- avasthi, lu, brown. "deep learning and alignment of spatially resolved single-cell transcriptomes with tangram." *nature methods*, 2021. [doi](https://doi.org/10.1038/s41592-021-01264-7)
+- balaji, brown. "quantum-enhanced memory architectures for graph-based ai systems." *techrxiv*, 2026. [doi](https://doi.org/10.36227/techrxiv.177162482.24655380/v1)
+- issak, kakkar, goetz, brown, harteveld. "mapping the typographic latent space of digits." *iclr*, kigali, 2023.
+- brown, gultepe, sridhar. [*cancer biology and therapeutics*](https://github.com/nikbearbrown/Cancer-Biology-and-Therapeutics). open-source textbook.
+- brown. [*computational skepticism for ai*](https://www.bearbrown.co/method/computational-skepticism). bear brown & company.
+- brown. *irreducibly human: what ai can and can't do*. bear brown & company.
+- brown. *intelligence?* in progress.
 
 ---
 
-## Background
+## background
 
 PhD and MS, Computer Science — UCLA (computational and systems biology; AI and statistics)  
 MS, Information Design and Data Visualization — Northeastern University  
@@ -183,7 +184,7 @@ Those are the irreducibly human parts.
 
 ---
 
-## Angel Advising and Startup Work
+## angel advising and startup work
 
 I advise early-stage startups working in AI, analytics, machine learning, reinforcement learning, deep learning, visualization, computational biology, games, and education technology.
 
@@ -193,7 +194,7 @@ My focus is helping founders avoid expensive technical mistakes, make better AI 
 
 ---
 
-## Music and Creative Work
+## music and creative work
 
 Through [Musinique](https://www.musinique.net/), I work on music, ghost artists, AI-assisted creativity, and research into streaming fraud.
 
@@ -203,7 +204,7 @@ Projects include Mayfield King, Liam Bear Brown, Newton Williams Brown, and othe
 
 ---
 
-## Fellows Substack Network
+## fellows substack network
 
 Active Humanitarians AI projects publish openly:
 
@@ -227,7 +228,7 @@ Active Humanitarians AI projects publish openly:
 
 ---
 
-## Connect
+## connect
 
 [Substack](https://www.skepticism.ai/) · [YouTube](https://www.youtube.com/@NikBearBrown) · [LinkedIn](https://linkedin.com/in/nikbearbrown) · [Humanitarians AI](https://www.humanitarians.ai/)
 
@@ -235,7 +236,7 @@ Pronouns: they/them
 Fun fact: I once ran away with the circus and did sumo wrestling.
   
 
-# Errata
+# errata
 - ⚡ Fun fact: I once ran away with the circus, was a photojournalist and did Sumo wrestling.
 
 
