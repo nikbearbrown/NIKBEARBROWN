@@ -191,6 +191,7 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 - [a new shape for work](https://github.com/nikbearbrown/a-new-shape-for-work). working draft on where human work sits, what employers ask for, and where ai use shows up. [manuscript](https://github.com/nikbearbrown/a-new-shape-for-work/blob/main/paper/manuscript.md).
 - [the junior's curve](https://github.com/nikbearbrown/the-juniors-curve). early-stage study of how entry-level stem work is changing, using the same framework as a new shape for work. [study methods](https://github.com/nikbearbrown/the-juniors-curve/blob/main/methods/entry-level-stem.md).
 - hrishikesh suresh pradhan, amos jaimes, k. siddhawar, edward m. olano, nik bear brown. [*do residual connections matter? evaluating 1d residual networks versus plain convolutional networks for low-snr bacterial raman spectroscopy*](https://github.com/hspgit/RAMAN-Effect). preprint draft, 2026: a compact plain 1d cnn benchmarked against a 1d resnet on the bacteria-id raman dataset, with code and per-run manifests. [manuscript](https://github.com/hspgit/RAMAN-Effect/blob/main/paper/overleaf/main.pdf).
+- nik bear brown, edward m. olano, kumar karthik ankasandra naveen, kunal siddhawar. *machine learning for surface-enhanced raman spectroscopy: from preprocessing to deployment*. review manuscript in preparation, 2026: how preprocessing, data splitting and validation design shape what reported sers-ml accuracies mean for deployment.
 
 ### books and other writing
 
