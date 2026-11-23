@@ -155,6 +155,7 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 
 ## selected publications and writing
 
+- shesh narayan gupta, nik bear brown. [*when augmentation backfires: synthetic-data volume, generator quality, and classifier-side reweighting for minority-class bias correction*](https://doi.org/10.1016/j.neucom.2026.135455). *neurocomputing*, 710 (2027), article 135455. published online, open access, october 2026.
 - yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/wp-content/uploads/2026/06/224.pdf). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224. [conference program](https://ieee-icad.org/icad-2026-june-12/).
 - gultepe, valluru, brown, sridhar. "the landscape of nanomedical clinical trials." *nano today*, 2026. [doi](https://doi.org/10.1016/j.nantod.2025.102898)
 - avasthi, lu, brown. "deep learning and alignment of spatially resolved single-cell transcriptomes with tangram." *nature methods*, 2021. [doi](https://doi.org/10.1038/s41592-021-01264-7)
