@@ -158,9 +158,12 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 - shesh narayan gupta, nik bear brown. [*when augmentation backfires: synthetic-data volume, generator quality, and classifier-side reweighting for minority-class bias correction*](https://doi.org/10.1016/j.neucom.2026.135455). *neurocomputing*, 710 (2027), article 135455. published online, open access, october 2026.
 - yash gopalji pankhania, nicholas brown. [*structured skill taxonomies vs. large language models: a comparative study of curriculum-level skill inference*](https://ieee-icad.org/wp-content/uploads/2026/06/224.pdf). ieee international conference on ai and data analytics (icad), 2026. accepted for presentation, paper 224. [conference program](https://ieee-icad.org/icad-2026-june-12/).
 - gultepe, valluru, brown, sridhar. "the landscape of nanomedical clinical trials." *nano today*, 2026. [doi](https://doi.org/10.1016/j.nantod.2025.102898)
-- avasthi, lu, brown. "deep learning and alignment of spatially resolved single-cell transcriptomes with tangram." *nature methods*, 2021. [doi](https://doi.org/10.1038/s41592-021-01264-7)
+- tommaso biancalani et al. (including nik bear brown). "deep learning and alignment of spatially resolved single-cell transcriptomes with tangram." *nature methods*, 2021. [doi](https://doi.org/10.1038/s41592-021-01264-7)
 - balaji, brown. "quantum-enhanced memory architectures for graph-based ai systems." *techrxiv*, 2026. [doi](https://doi.org/10.36227/techrxiv.177162482.24655380/v1)
-- issak, kakkar, goetz, brown, harteveld. "mapping the typographic latent space of digits." *iclr*, kigali, 2023.
+- alayt issak, sarthak kakkar, sair goetz, nik bear brown, casper harteveld. [*mapping the typographic latent space of digits*](https://openreview.net/pdf?id=ufA2FuCGyz). iclr tiny papers, 2023.
+- rohit gandikota, nik bear brown. [*pro-ddpm: progressive growing of variable denoising diffusion probabilistic models for faster convergence*](https://pdf-files.bmvc2022.org/0121.pdf). british machine vision conference (bmvc), 2022.
+- shesh narayan gupta, nicholas bear brown. [*adjusting for bias with procedural data*](https://arxiv.org/abs/2204.01108). arxiv preprint, 2022.
+- nimish magre, nicholas brown. [*typography-mnist (tmnist): an mnist-style image dataset to categorize glyphs and font-styles*](https://arxiv.org/abs/2202.08112). arxiv preprint, 2022.
 - brown, gultepe, sridhar. [*cancer biology and therapeutics*](https://github.com/nikbearbrown/Cancer-Biology-and-Therapeutics). open-source textbook.
 - brown. [*computational skepticism for ai*](https://www.bearbrown.co/method/computational-skepticism). bear brown & company.
 - brown. *irreducibly human: what ai can and can't do*. bear brown & company.
