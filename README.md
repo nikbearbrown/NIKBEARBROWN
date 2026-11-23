@@ -185,6 +185,12 @@ The artifact is not evidence of learning by itself. Process, friction, judgment,
 
 - ziqing lu et al. (including nik bear brown). [*using deep learning to transfer atlas annotations in mouse brain data*](https://www.researchgate.net/publication/341785093_Using_Deep_Learning_to_Transfer_Atlas_Annotations_in_Mouse_Brain_Data). research poster, 2020. [northeastern faculty bibliography](https://coe.northeastern.edu/people/brown-nicholas/#publications).
 
+### papers in progress
+
+- [irreducibly human work lexicon: an auditable vocabulary for matching skills across job postings and curricula](https://github.com/nikbearbrown/irreducibly-human-work-lexicon). working draft on an evidence-linked lexicon for workforce and education research. [manuscript](https://github.com/nikbearbrown/irreducibly-human-work-lexicon/blob/main/Papers/irreducibly-human-work-lexicon-an-auditable-vocabulary-for-matching-skills-across-job-postings-and-curricula/manuscript.md).
+- [a new shape for work](https://github.com/nikbearbrown/a-new-shape-for-work). working draft on where human work sits, what employers ask for, and where ai use shows up. [manuscript](https://github.com/nikbearbrown/a-new-shape-for-work/blob/main/paper/manuscript.md).
+- [the junior's curve](https://github.com/nikbearbrown/the-juniors-curve). early-stage study of how entry-level stem work is changing, using the same framework as a new shape for work. [study methods](https://github.com/nikbearbrown/the-juniors-curve/blob/main/methods/entry-level-stem.md).
+
 ### books and other writing
 
 - brown, gultepe, sridhar. [*cancer biology and therapeutics*](https://github.com/nikbearbrown/Cancer-Biology-and-Therapeutics). open-source textbook.
